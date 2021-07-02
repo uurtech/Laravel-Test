@@ -4,7 +4,9 @@ Please create a fork with this repo and share your repository via email. and mak
 
 Testing Send-Receive Message using Web-Socket 
 
-Write a test that sends example messages to the server and receive accepted message
+- Write a test that sends example messages to the server and receive message. 
+- Write a test that sends json string and check if it's accepted by the server
+
 
 Just make sure your tests can be called by using this command,
 
